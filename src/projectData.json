@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "title": "HelpGavin.com",
+        "image": "/images/cardImages/project-card-image-1.webp",
+        "alt": "HelpGavin.com Landing Page",
+        "copy": "",        
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 2,
+        "title": "No Bones About It",
+        "image": "/images/cardImages/project-card-image-2.webp",
+        "alt": "No Bones About It Landing Page",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 3,
+        "title": "Pokémon Click Quest",
+        "image": "/images/cardImages/project-card-image-3.webp",
+        "alt": "Pokémon Click Quest Landing Page",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 4,
+        "title": "IdentiWrite",
+        "image": "/images/cardImages/project-card-image-4.webp",
+        "alt": "IdentiWrite Landing Page",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 5,
+        "title": "Dragon Ball Brain Battle",
+        "image": "/images/cardImages/project-card-image-5.webp",
+        "alt": "Dragon Ball Brain Battle Landing Page",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 6,
+        "title": "Gif Fetcher",
+        "image": "/images/cardImages/project-card-image-6.webp",
+        "alt": "Gif Fetcher Landing Page",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 7,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-7.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 8,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-8.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 9,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-9.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 10,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-10.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 11,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-11.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 12,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-12.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 13,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-13.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 14,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-14.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 15,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-15.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 16,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-16.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 17,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-17.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 18,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-18.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 19,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-19.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 20,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-20.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 21,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-21.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    },
+    {
+        "id": 22,
+        "title": "",
+        "image": "/images/cardImages/project-card-image-22.webp",
+        "alt": "",
+        "copy": "",
+        "url": "",
+        "technologies": {}
+    }
+]
